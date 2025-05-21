@@ -103,6 +103,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
     src="https://github-readme-stats.vercel.app/api?username=NycolasMariano&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
     <br>
+</p>
+ <p>   
 <img 
       align="left" 
       alt="GitHub Stats" 
