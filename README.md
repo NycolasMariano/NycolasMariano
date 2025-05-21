@@ -1,9 +1,9 @@
-# 👩🏻‍💻 Nycolas Mariano
+#👩🏻‍💻 Nycolas Mariano
 
 **`Desenvolvedor `**
 Me chamo Nycolas Mariano, tenho 17 anos e sou do interior de São Paulo. Atualmente, estou terminando meu curso técnico em Desenvolvimento de Sistemas e sou apaixonado por tecnologia e jogos.
 Gosto de explorar novas linguagens de programação, aprender sobre desenvolvimento backend e design, além de sempre buscar maneiras de aprimorar minhas habilidades na criação de projetos digitais.
-Compartilho minha jornada e meu aprendizado no Instagram "[NYcolas](https://www.instagram.com/nycolaszzx/)". onde posto sobre desenvolvimento, tecnologia e dicas para quem quer crescer na área. Meu objetivo é evoluir cada vez mais na programação e ajudar outras pessoas a fazerem o mesmo! 🚀🎮
+Compartilho minha jornada e meu aprendizado no Instagram "[Nycolas](https://www.instagram.com/nycolaszzx/)". onde posto sobre desenvolvimento, tecnologia e dicas para quem quer crescer na área. Meu objetivo é evoluir cada vez mais na programação e ajudar outras pessoas a fazerem o mesmo! 🚀🎮
 
 
 
