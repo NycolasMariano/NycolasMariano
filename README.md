@@ -1,4 +1,4 @@
-#👩🏻‍💻 Nycolas Mariano
+👩🏻‍💻 Nycolas Mariano
 
 **`Desenvolvedor `**
 
