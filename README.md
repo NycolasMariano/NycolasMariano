@@ -40,7 +40,7 @@ Meu objetivo é evoluir cada vez mais na programação e ajudar outras pessoas a
 <img alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img alt="Python" title="Python" width="30px" style="padding-right:1px;" src="https://logodix.com/logo/1796970.png" />
+<img alt="mvc" title="mvc" width="30px" style="padding-right:20px;" src="https://logodix.com/logo/1796970.png" />
 </p>
 
 ---
