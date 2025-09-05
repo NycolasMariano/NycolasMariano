@@ -39,7 +39,7 @@ Meu objetivo é evoluir cada vez mais na programação e ajudar outras pessoas a
 <img alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 <img alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
 <img alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.sv](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.klipartz.com%2Fen%2Fsticker-png-ycrzq&psig=AOvVaw3p3b97dU5BT-gCfRAzZQLr&ust=1757156624727000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOj7_di8wY8DFQAAAAAdAAAAABAW)g" />
+<img alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://tutorials.eu/wp-content/uploads/2022/03/MVC-Logo.jpg" />
 </p>
 
 ---
